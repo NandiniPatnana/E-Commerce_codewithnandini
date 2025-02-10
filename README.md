@@ -1,3 +1,29 @@
+As a final-year student and beginner, created a simplified E-Commerce Website project by focusing on the core functionalities.
+
+✔ **Core Features to Implement:**
+✅ User Registration & Login – Secure authentication.
+✅ Product Catalog – List and display products.
+✅ Shopping Cart – Add/remove products from the cart.
+✅ Order Checkout – Simple checkout process (without actual payment gateway).
+✅ Admin Panel – Basic product and order management.
+
+🚫 **Features to Skip (For Now):**
+❌ AI-based Product Recommendations.
+❌ Advanced Payment Gateway (Can use Cash on Delivery).
+❌ Wishlist & Reviews (Can be added later).
+
+---
+
+📌 **Simplified Tech Stack**
+
+|Component|    	|Technology|
+|Frontend|	    |HTML, CSS, JavaScript (Bootstrap)|
+|Backend|	      |Python (Flask) or PHP|
+|Database|	    |SQLite (Lightweight & Easy)|
+
+
+
+
 **Project Overview**
 This e-commerce platform is designed for **Customers** and **Admins** to handle shopping and management functionalities. Below are concise, sectioned explanations for each part of the project.
 
