@@ -16,15 +16,15 @@ As a final-year student and beginner, created a simplified E-Commerce Website pr
 
 📌 **Simplified Tech Stack**
 
-|   Component   | Technology                         |
-| ------------- | -----------------------------------|
-| Frontend      | HTML, CSS, JavaScript (Bootstrap)  |
-| Backend       | Python (Flask) or PHP              |
-| Database      | SQL                                |
-
+|   Component   | Technology                                        |
+| ------------- | -----------------------------------               |
+| Frontend      | HTML, CSS, JavaScript (Bootstrap)                 |
+| Backend       | PHP(  Core PHP, not Laravel or frameworks)        |
+| Database      | MySQL (For storing users, products, and cart data)|
+|Server         | Apache (via XAMPP)                                |
 
  ---
-
+ 
 #### **Project Overview**
 This e-commerce platform is designed for **Customers** and **Admins** to handle shopping and management functionalities. Below are concise, sectioned explanations for each part of the project.
 
