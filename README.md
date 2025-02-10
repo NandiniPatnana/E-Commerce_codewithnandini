@@ -16,10 +16,12 @@ As a final-year student and beginner, created a simplified E-Commerce Website pr
 
 📌 **Simplified Tech Stack**
 
-|Component|    	|Technology|
-|Frontend|	    |HTML, CSS, JavaScript (Bootstrap)|
-|Backend|	      |Python (Flask) or PHP|
-|Database|	    |SQLite (Lightweight & Easy)|
+|   Component   | Technology                         |
+| ------------- | -----------------------------------|
+| Frontend      | HTML, CSS, JavaScript (Bootstrap)  |
+| Backend       | Python (Flask) or PHP              |
+| Database      | SQL                                |
+
 
  ---
 
