@@ -1,14 +1,31 @@
 As a final-year student and beginner, created a simplified E-Commerce Website project by focusing on the core functionalities.
 
 #### ✔ **Core Features to Implement:**
+#### 1️⃣ User Module
 - ✅ User Registration & Login – Secure authentication.
 - ✅ Product Catalog – List and display products.
 - ✅ Shopping Cart – Add/remove products from the cart.
 - ✅ Order Checkout – Simple checkout process (without actual payment gateway).
-- ✅ Admin Panel – Basic product and order management.
+- ✅ Cart Management (Update & Remove Items, Display Total Cost)
+
+#### 2️⃣ Admin Module
+✅ Admin Login & Session Management
+✅ Product Management (Add, Edit, Delete Products)
+✅ Dashboard (Overview of Products & Orders)
+
+#### 3️⃣ Database Management
+✅ User Table (Stores customer and admin data with hashed passwords)
+✅ Products Table (Stores product details like name, price, description, image)
+✅ Cart Table (Stores user-selected products before checkout)
+
+#### 4️⃣ Security Features
+✅ Password Hashing (password_hash() for secure storage)
+✅ Session-based Authentication (Restricts user/admin access)
+✅ Admin Role-Based Access (Only admins can access product management)
 
 #### 🚫 **Features to Skip (For Now):**
 - ❌ AI-based Product Recommendations.
+- ❌ Order History.
 - ❌ Advanced Payment Gateway (Can use Cash on Delivery).
 - ❌ Wishlist & Reviews (Can be added later).
 
